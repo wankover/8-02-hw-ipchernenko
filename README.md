@@ -11,6 +11,6 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-(https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-16.png)
+![screen_1](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-16.png)
 
 
