@@ -13,4 +13,10 @@
 
 ![screen_1](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-16.png)
 
+![screen_2](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-2.png)
 
+![screen_3](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-3.png)
+
+![screen_4](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-4.png)
+
+![screen_5](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-5.png)
