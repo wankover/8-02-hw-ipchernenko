@@ -22,7 +22,6 @@
 ![screen_5](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-5.png)
 
 Задание 2
-Что нужно сделать:
 
 Создайте новый проект pipeline.
 Перепишите сборку из задания 1 на declarative в виде кода.
@@ -35,7 +34,6 @@
 ![screen_8](https://github.com/wankover/8-02-hw-ipchernenko/blob/main/img/jenkins-8.png)
 
 Задание 3
-Что нужно сделать:
 
 Установите на машину Nexus.
 Создайте raw-hosted репозиторий.
